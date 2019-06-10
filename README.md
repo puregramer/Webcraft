@@ -3,7 +3,7 @@
 ## Features
 - ES5
 - requireJS
-- 
+- a* pathfind algorithm
 
 ## demo
  - [데모버전 보기](https://puregramer.github.io/Webcraft)
