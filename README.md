@@ -6,7 +6,7 @@
 - a* pathfind algorithm
 
 ## demo
- - [데모버전 보기](https://puregramer.github.io/Webcraft)
+ - [데모버전 보기](https://puregramer.github.io/Webcraft/)
  
  ## notice
  - 해당 프로젝는 javascript skill up을 위한 개인 프로젝트입니다.
